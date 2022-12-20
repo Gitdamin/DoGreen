@@ -14,6 +14,6 @@ _____________
 <br/><img src="https://user-images.githubusercontent.com/86276347/208611316-cf74246d-7728-4a80-8c9d-c4e2240099b1.png" width="400px" height="100px" title="정분류된 케이스" alt="33"></img><br/>
 
 - 도로 측
-<br/><img src="https://user-images.githubusercontent.com/86276347/208611337-01bbc8f5-9c10-4dab-a67b-1ae908c63ef2.png" width="400px" height="100px" title="정분류된 케이스" alt="33"></img><br/>
+<br/><img src="https://user-images.githubusercontent.com/86276347/208613233-c3a273f5-82e2-4515-9465-d850099e0dda.png" width="400px" height="100px" title="정분류된 케이스" alt="33"></img><br/>
 <br/>
 
